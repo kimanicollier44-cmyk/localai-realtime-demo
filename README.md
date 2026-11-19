@@ -1,3 +1,5 @@
+![localai-realtime-demo Cover](assets/cover.png)
+
 # Minimal Realtime Assistant
 
 A tiny Go client for [LocalAI](https://localai.io)'s realtime (WebSocket) API.
